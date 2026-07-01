@@ -4,7 +4,7 @@ import { Link,Outlet } from "react-router-dom";
 const App = () => {
   return (
     <div className='flex flex-row'>
-      <nav className="w-64 min-h-screen bg-gray-900 text-white p-6 flex flex-col gap-4 shadow-xl">
+      <nav className="w-64 min-h-screen bg-purple-300 text-white p-6 flex flex-col gap-4 shadow-xl">
   <h1 className="text-3xl font-bold text-center mb-6">
     📚 My Tasks
   </h1>

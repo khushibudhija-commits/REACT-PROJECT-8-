@@ -14,7 +14,7 @@ const [data, setData] = useState({
   };
   return (
     <>
-      <header className="header">
+      <header className="header1">
         <div className="navbarlogo"> <a>
           <h2>Logo</h2>
         </a>
