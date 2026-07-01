@@ -3,7 +3,7 @@
 .header { 
   background: #7c3aed; 
   color: white; 
-width: 100vw;
+/* width: 100vw; */
   padding: 20px 40px; 
   align-items: center; 
 } 

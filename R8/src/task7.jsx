@@ -29,7 +29,8 @@ function Task7() {
   }, []);
 
   return (
-    <div className="w-full min-h-screen bg-gradient-to-br from-yellow-100 via-pink-100 to-blue-100 flex flex-col items-center justify-center p-8">
+    <div className="w-full min-h-screen bg-gradient-to-br from-yellow-100 
+    via-pink-100 to-blue-100 flex flex-col items-center justify-center ">
 
       <h1 className="text-5xl font-extrabold text-pink-600 mb-3">
         😂 Programming Joke Generator

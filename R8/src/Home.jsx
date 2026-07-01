@@ -44,8 +44,8 @@ const Home=()=>{
     alert("Registration Successful!");
   };
   return (
-    <div className=" bg-gray-100 py-8 bg-cyan-500 p-4 rounded-lg">
-      <div className="   rounded bg-purple-200 p-8 shadow-lg">
+    <div className=" bg-gray-100  bg-cyan-500  rounded-lg">
+      <div className="   rounded bg-purple-200  shadow-lg">
         <div className="mb-6 text-center">
           <h1 className="text-3xl font-bold">Student Information</h1>
           <p className="mt-2 text-gray-600">
